@@ -8,10 +8,10 @@ var garden,washroom,bedroom;
 var currentTime;
 function preload(){
 sadDog=loadImage("Dog.png");
-happyDog=loadImage("happy dog.png");
+happyDog=loadImage("happydog.png");
 garden=loadImage("Garden.png");
-washroom=loadImage("Wash Room.png");
-bedroom=loadImage("Bed Room.png");
+washroom=loadImage("WashRoom.png");
+bedroom=loadImage("bed.png");
 }
 
 function setup() {
